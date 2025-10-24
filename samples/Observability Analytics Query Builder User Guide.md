@@ -40,7 +40,9 @@ Last update: October 2025
 
 [Example 11: Regex extraction \- the top 20 files accessed](#example-11:-regex-extraction---the-top-20-files-accessed)
 
-[Supported Comparison Operators](#heading=h.dl1s4nvcymnl)
+[Video Demo: Understand total external traffic by country with VPC flow log](#video-demo:-understand-total-external-traffic-by-country-with-vpc-flow-log)
+
+[Supported Comparison Operators](#supported-comparison-operators)
 
 [To be scheduled](#to-be-scheduled)
 
@@ -482,7 +484,7 @@ LIMIT
 | :---- | :---- | :---- | ----- |
 | 1 | test\_file | 12101518 |  |
 
-## [**Video Demo**](https://youtu.be/WEGwCWpW60U)**: Understand total external traffic by country with VPC flow log**
+## [**Video Demo**](https://youtu.be/WEGwCWpW60U)**: Understand total external traffic by country with VPC flow log** {#video-demo:-understand-total-external-traffic-by-country-with-vpc-flow-log}
 
 **Generated SQL query**
 
@@ -512,7 +514,7 @@ LIMIT
   100
 ```
 
-**Supported Comparison Operators**
+### **Supported Comparison Operators** {#supported-comparison-operators}
 
 * \=  
 * \!=  
